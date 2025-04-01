@@ -7,4 +7,6 @@ def removeElement(nums, val):
 
     return slow        
 
-
+nums = [3, 2, 2, 3]
+removeElement(nums, 3)
+print(nums)
